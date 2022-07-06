@@ -57,7 +57,7 @@ void main()
 	char exp[100],arr[100];
 	char *ptr,a,b;
 	int i=0,j;
-	printf("Enter the expression ");
+	printf("Enter the expression:");
 	scanf("%s",exp);
 	ptr=exp;
 	while(*ptr!='\0')
